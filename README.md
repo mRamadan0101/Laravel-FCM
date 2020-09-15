@@ -29,7 +29,7 @@ Or you can add it directly in your composer.json file:
 ```json
 {
     "require": {
-        "mRamadan0101/laravel-fcm": "1.3.*"
+        "mRamadan0101/laravel-fcm": "1.4.1"
     }
 }
 ```
